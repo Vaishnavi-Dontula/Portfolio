@@ -321,3 +321,11 @@
               0 0 50px rgb(0, 140, 255),
               0 0 100px rgb(0, 140, 255);
 }
+
+.filter-btn {
+  margin: 5px;
+  padding: 6px 14px;
+  font-size: 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
